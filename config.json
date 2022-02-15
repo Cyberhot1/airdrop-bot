@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
+    "token" : "5184311684:AAHi1lw7ZmEpWVMc_svXBlhgSRNZj8Kt06c",
+    "admins" : ["unitiguardman"],
+    "intro" : "Welcome to Safutrendz Airdrop",
+    "botname" :"SafuTrendz Airdrop Bot",
     "signup" : SIGNUP BONUS (NUMBER),
     "ref" : REFERRAL BONUS (NUMBER)
 }
